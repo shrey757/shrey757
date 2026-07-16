@@ -10,7 +10,6 @@ Final-year **Computer Science (Honours)** student at **York University** in Toro
 - **Data & Databases:** SQL, MySQL, database design
 - **Programming:** Python, Java, JavaScript
 - **Analysis & Reporting:** Excel, data visualization
-- **Currently learning:** _(edit this — e.g., Power BI, Tableau)_
 
 ---
 
