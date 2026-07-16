@@ -20,7 +20,7 @@ Final-year **Computer Science (Honours)** student at **York University** in Toro
 ---
 
 ### 📫 Where to find me
-- **LinkedIn:** _(add your URL)_
+- **LinkedIn:** https://www.linkedin.com/in/shrey-groverr/
 - **Email:** shrey.grover57@gmail.com
 
 ---
